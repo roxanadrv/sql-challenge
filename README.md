@@ -4,6 +4,7 @@ This repository contains the SQL Challenge assignment, focusing on data modeling
 
 Repository Structure
       EmployeeSQL/
+      
       .sql_files/ - Contains SQL files for table schemata, queries, and combined SQL scripts.
       
       bonus/ - Contains a Jupyter Notebook with bonus analysis.
