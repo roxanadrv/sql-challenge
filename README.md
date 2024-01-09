@@ -3,11 +3,15 @@ Overview
 This repository contains the SQL Challenge assignment, focusing on data modeling, data engineering, and data analysis. The challenge involves creating a database schema from CSV files, importing data into a SQL database, and performing various data analyses.
 
 Repository Structure
-EmployeeSQL/
-.sql_files/ - Contains SQL files for table schemata, queries, and combined SQL scripts.
-bonus/ - Contains a Jupyter Notebook with bonus analysis.
-data/ - Contains all CSV files used for the database.
-ERD/ - Contains the Entity Relationship Diagram (ERD) image file.
+      EmployeeSQL/
+      .sql_files/ - Contains SQL files for table schemata, queries, and combined SQL scripts.
+      
+      bonus/ - Contains a Jupyter Notebook with bonus analysis.
+      
+      data/ - Contains all CSV files used for the database.
+      
+      ERD/ - Contains the Entity Relationship Diagram (ERD) image file.
+
 Before You Begin
 Clone this repository to your local machine.
 Create a new database in your SQL server.
